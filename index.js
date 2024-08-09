@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Поднебесный 𝗨𝘁𝗶𝗹𝘀"];
 
 
 let currentIndex = 0;
